@@ -1,0 +1,1 @@
+The homepage for our website. Feel free to contribute by opening an issue or pull request.
